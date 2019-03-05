@@ -5,4 +5,4 @@ let welcomeMessage="Welcome to Flatbook, " +currentUser+"!"
 let excitedWelcomeMessage='WELCOME TO FLATBOOK, ' + currentUser+'!'
 // let shortGreeting="Welcome, "+currentUser.charAt(0) +"!"
 let newU=currentUser.split();
-let shortGreeting="Welcome, " +currentUser[0]
+let shortGreeting="Welcome, " +currentUser[0]+'!'
